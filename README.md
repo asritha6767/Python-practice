@@ -11,7 +11,7 @@ In 7 days I practiced Python basics by building small programs and pushing them 
 - **Day 5**: Lists
 - **Day 6**: Dictionaries
 - **Day 7**: While Loop + User Input
-
+- **Day 8**: Number Guessing Game - Guess a random number based on user input
 ##  How to Run
 1. Download or clone this repository
 2. Open terminal in the folder
