@@ -1,0 +1,10 @@
+
+# Day 2: If-Else Statement
+marks = 85
+
+if marks >= 90:
+    print("Grade: A")
+elif marks >= 75:
+    print("Grade: B")
+else:
+    print("Grade: C")
